@@ -1,3 +1,4 @@
+//Derek Stanley :D
 #include<stdio.h>
 
 int dist; //distance between them
